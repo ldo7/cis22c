@@ -1,0 +1,30 @@
+A 5 53000 Robert Hill
+A 3 89000 Amanda Trapp
+A 3 90000 Jonathan Nguyen
+A 5 56000 Tom Martin
+A 1 21000 Mary Lou Gilley
+S
+S
+S
+A 3 89000 Bob Che
+A 7 72000 Warren Rexroad
+A 2 65000 Vincent Gonzales
+A 3 34000 Paula Hung
+S 
+S
+A 6 21000 Lou Masson
+A 4 42000 Steve Chu
+A 3 99000 Linda Lee
+S
+S
+A 3 69000 Dave Lightfoot
+A 3 83000 Daniel Oh
+A 5 50000 Sue Andrews
+A 2 73000 Joanne Brown
+S
+A 7 96000 Paul Ng
+S
+A 5 53000 Steven Chen
+A 2 65000 Vladimir Johnson
+S
+A 7 72000 Peter Edwards

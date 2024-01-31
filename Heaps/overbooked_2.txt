@@ -1,0 +1,10 @@
+A 5 53000 Robert Hill
+A 3 89000 Amanda Trapp
+A 2 65000 Vincent Gonzales
+S
+A 3 34000 Paula Hung
+A 4 42000 Steve Chu
+S
+A 2 65000 Vladimir Johnson
+S
+A 7 72000 Warren Rexroad

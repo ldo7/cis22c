@@ -1,0 +1,229 @@
+============================================================
+          Welcome to De Anza’s 22c Café Simulator!
+============================================================
+                    MENU OPTIONS
+1 - Add Drink
+2 - Delete Drink
+3 - Undo delete
+4 - Search by name
+5 - Display all drinks
+6 - Save to File
+7 - Statistics
+8 - Help
+9 - Quit
+=================================================
+Please choose option 1-9: 11
+=================================================
+1). Espresso
+..2). Latte
+....3). White Hot Chocolate
+......4). Steamed Milk
+........5). Water
+........5). Nitro Cold Brew
+..........6). Orange Juice
+............7). Pink Drink
+..............8). Paradise Drink
+..........6). Mocha Frappuccino Blended Beverage
+............7). Matcha Crème Frappuccino Blended Beverage
+....3). Flat White
+......4). Hot Chocolate
+........5). Iced Caffè Americano
+..........6). Iced Shaken Espresso
+............7). Iced White Chocolate Mocha
+..........6). Iced Brown Sugar Oatmilk Shaken Espresso
+............7). Iced Black Tea
+........5). Green Tea
+..2). Cappuccino
+....3). Dark Chocolate Mocha
+......4). Dragon Drink
+......4). Caramel Apple Spice
+....3). Apple Juice
+=================================================
+Please choose option 1-9: 2
+=================================================
+Enter the name of the drink to delete: esPREsso
+Espresso has been deleted!
+=================================================
+Please choose option 1-9: 11
+=================================================
+1). Flat White
+..2). Latte
+....3). White Hot Chocolate
+......4). Steamed Milk
+........5). Water
+........5). Nitro Cold Brew
+..........6). Orange Juice
+............7). Pink Drink
+..............8). Paradise Drink
+..........6). Mocha Frappuccino Blended Beverage
+............7). Matcha Crème Frappuccino Blended Beverage
+....3). Hot Chocolate
+......4). Iced Caffè Americano
+........5). Iced Shaken Espresso
+..........6). Iced White Chocolate Mocha
+........5). Iced Brown Sugar Oatmilk Shaken Espresso
+..........6). Iced Black Tea
+......4). Green Tea
+..2). Cappuccino
+....3). Dark Chocolate Mocha
+......4). Dragon Drink
+......4). Caramel Apple Spice
+....3). Apple Juice
+=================================================
+Please choose option 1-9: 4
+=================================================
+Enter the name of the drink to search: espresso
+Espresso not found!
+=================================================
+Please choose option 1-9: 2
+=================================================
+Enter the name of the drink to delete: espresso
+Espresso not found!
+=================================================
+Please choose option 1-9: 3
+=================================================
+Espresso added back to menu!
+=================================================
+Please choose option 1-9: 4
+=================================================
+Enter the name of the drink to search: espresso
+Name: Espresso
+Type: Coffee
+Rating: 4.7
+Dairy (Y/N): No
+Price: 3.75
+
+
+=================================================
+Please choose option 1-9: 11
+=================================================
+1). Flat White
+..2). Latte
+....3). White Hot Chocolate
+......4). Steamed Milk
+........5). Water
+........5). Nitro Cold Brew
+..........6). Orange Juice
+............7). Pink Drink
+..............8). Paradise Drink
+..........6). Mocha Frappuccino Blended Beverage
+............7). Matcha Crème Frappuccino Blended Beverage
+....3). Hot Chocolate
+......4). Iced Caffè Americano
+........5). Iced Shaken Espresso
+..........6). Iced White Chocolate Mocha
+........5). Iced Brown Sugar Oatmilk Shaken Espresso
+..........6). Iced Black Tea
+......4). Green Tea
+..2). Cappuccino
+....3). Dark Chocolate Mocha
+......4). Dragon Drink
+........5). Espresso
+......4). Caramel Apple Spice
+....3). Apple Juice
+=================================================
+Please choose option 1-9: 5
+=================================================
+DRINKS MENU
+Apple Juice
+Cappuccino
+Caramel Apple Spice
+Dark Chocolate Mocha
+Dragon Drink
+Espresso
+Flat White
+Green Tea
+Hot Chocolate
+Iced Black Tea
+Iced Brown Sugar Oatmilk Shaken Espresso
+Iced Caffè Americano
+Iced Shaken Espresso
+Iced White Chocolate Mocha
+Latte
+Matcha Crème Frappuccino Blended Beverage
+Mocha Frappuccino Blended Beverage
+Nitro Cold Brew
+Orange Juice
+Paradise Drink
+Pink Drink
+Steamed Milk
+Water
+White Hot Chocolate
+=================================================
+Please choose option 1-9: 7
+=================================================
+Load Factor: 45.283
+Total number of collisions: 3
+The longest collision path: Espresso
+=================================================
+Please choose option 1-9: 8
+=================================================
+                    MENU OPTIONS
+1 - Add Drink
+2 - Delete Drink
+3 - Undo delete
+4 - Search by name
+5 - Display all drinks
+6 - Save to File
+7 - Statistics
+8 - Help
+9 - Quit
+=================================================
+Please choose option 1-9: 6
+=================================================
+Drinks successfully saved to file!
+All drinks saved to file!
+=================================================
+Please choose option 1-9: 3
+=================================================
+no recently deleted drinks!
+=================================================
+Please choose option 1-9: 10
+=================================================
+Creators: Lani D, Jharell B, Jacky W, Mariia R
+=================================================
+Please choose option 1-9: 1
+=================================================
+CREATE A NEW DRINK
+Name: Berry Blast
+Type of Beverage: smoothie
+Rating (out of 5): 3.5
+Dairy (Y/N): y
+Price: 4.50
+Drink added successfully!
+=================================================
+Please choose option 1-9: 4
+=================================================
+Enter the name of the drink to search: berry Blast
+Name: Berry Blast
+Type: smoothie
+Rating: 3.5
+Dairy (Y/N): y
+Price: 4.5
+=================================================
+Please choose option 1-9: 8
+=================================================
+                    MENU OPTIONS
+1 - Add Drink
+2 - Delete Drink
+3 - Undo delete
+4 - Search by name
+5 - Display all drinks
+6 - Save to File
+7 - Statistics
+8 - Help
+9 - Quit
+=================================================
+Please choose option 1-9: 1
+=================================================
+CREATE A NEW DRINK
+Name: Berry Blast
+Berry Blast already added to menu!
+=================================================
+Please choose option 1-9: 9
+=================================================
+
+                    GOODBYE!
+
+=================================================
+Program ended with exit code: 0

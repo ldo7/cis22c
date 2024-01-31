@@ -1,0 +1,173 @@
+Name: Cappuccino
+Type: Coffee
+Rating: 4.9
+Dairy (Y/N): Yes
+Price: 3.50
+
+
+Name: Espresso
+Type: Coffee
+Rating: 4.7
+Dairy (Y/N): No
+Price: 3.75
+
+
+Name: Latte
+Type: Coffee
+Rating: 4.3
+Dairy (Y/N): Yes
+Price: 3.35
+
+
+Name: Cappuccino
+Type: Coffee
+Rating: 5
+Dairy (Y/N): Yes
+Price: 3.67
+
+
+Name: Flat White
+Type: Coffee
+Rating: 3.8
+Dairy (Y/N): Yes
+Price: 4.30
+
+
+Name: Dark Chocolate Mocha
+Type: Coffee
+Rating: 4.95
+Dairy (Y/N): Yes
+Price: 6.79
+
+
+Name: Hot Chocolate
+Type: Hot Chocolate
+Rating: 5
+Dairy (Y/N): Yes
+Price: 7.36
+
+
+Name:  White Hot Chocolate
+Type: Hot Chocolate
+Rating: 5
+Dairy (Y/N): Yes
+Price: 6.95
+
+
+Name: Caramel Apple Spice
+Type: Hot Chocolate
+Rating: 5
+Dairy (Y/N): Yes
+Price: 5.78
+
+
+Name: Steamed Milk
+Type: Milk
+Rating: 3.2
+Dairy (Y/N): Yes
+Price: 3.45
+
+
+Name: Nitro Cold Brew
+Type: Coffee
+Rating: 4.7
+Dairy (Y/N): Yes
+Price: 4.84
+
+
+Name: Iced Caffè Americano
+Type: Coffee
+Rating: 3.8
+Dairy (Y/N): No
+Price: 3.75
+
+
+Name: Iced Brown Sugar Oatmilk Shaken Espresso
+Type: Coffee
+Rating: 4.1
+Dairy (Y/N): Yes
+Price: 5.46
+
+
+Name: Iced Shaken Espresso
+Type: Coffee
+Rating: 4.1
+Dairy (Y/N): Yes
+Price: 5.55
+
+
+Name: Apple Juice
+Type: Juice
+Rating: 4.3
+Dairy (Y/N): No
+Price: 3.25
+
+
+Name: Orange Juice
+Type: Juice
+Rating: 4.7
+Dairy (Y/N): No
+Price: 3.25
+
+
+Name: Iced White Chocolate Mocha
+Type: Coffee
+Rating: 4.8
+Dairy (Y/N): Yes
+Price: 6.87
+
+
+Name: Water
+Type: Water
+Rating: 5
+Dairy (Y/N): No
+Price: 1.50
+
+
+Name: Mocha Frappuccino Blended Beverage
+Type: Coffee
+Rating: 4.79
+Dairy (Y/N): Yes
+Price: 6.74
+
+
+Name: Green Tea
+Type: Tea
+Rating: 4.8
+Dairy (Y/N): No
+Price: 3.27
+
+
+Name: Matcha Crème Frappuccino Blended Beverage
+Type: Coffee
+Rating: 4.7
+Dairy (Y/N): Yes
+Price: 6.50
+
+
+Name: Pink Drink
+Type: Lemonade
+Rating: 4.1
+Dairy (Y/N): Yes
+Price: 5.45
+
+
+Name: Paradise Drink
+Type: Lemonade
+Rating: 4.6
+Dairy (Y/N): Yes
+Price: 5.65
+
+
+Name: Dragon Drink
+Type: Lemonade
+Rating: 4.8
+Dairy (Y/N): Yes
+Price: 6.25
+
+
+Name: Iced Black Tea
+Type: Tea
+Rating: 4.1
+Dairy (Y/N): No
+Price: 3.25
